@@ -16,3 +16,4 @@ Crearea unei aplicatii
 - rulati cd react-ap
 - rulati npm install
 - rulati npm run dev
+  FIRST TRY
